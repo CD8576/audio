@@ -2,10 +2,10 @@
     "name": "audio",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*",
-        "audio-recording": "github:cd8576/gfffhjyc#master"
+        "core": "https://github.com/microsoft/pxt-microbit/tree/master/libs/core",
+        "radio": "https://github.com/microsoft/pxt-microbit/tree/master/libs/radio",
+        "microphone": "https://github.com/microsoft/pxt-microbit/tree/master/libs/microphone",
+        "audio-recording": "https://github.com/microsoft/pxt-microbit/tree/master/libs/audio-recording"
     },
     "files": [
         "main.blocks",
